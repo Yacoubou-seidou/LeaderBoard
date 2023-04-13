@@ -15,7 +15,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [� Getting Started ](#-getting-started-)
+  - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Usage](#usage)
@@ -105,7 +105,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Yacoubou-seidou/ToDo_List.git
+  git clone https://github.com/Yacoubou-seidou/Leaderboard.git
 ```
 
 ### Usage
@@ -115,7 +115,7 @@ To run the project, execute the following command:
 ```sh
   Open index.html in browser
   or
-  open with Live server in Vscode
+  run npm run start
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
